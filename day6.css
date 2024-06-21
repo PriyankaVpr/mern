@@ -12,3 +12,10 @@
     background-size: contain;
     opacity: 0.5;
 }
+
+.model{
+    background-color: blue;
+    width:100px;
+    height:200px;
+    padding: 5px;
+}
